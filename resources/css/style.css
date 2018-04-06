@@ -5,7 +5,7 @@ body {
 }
 h1 {
   font-family: Verdana;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 50px;
   color: White;
   text-align: Center;
@@ -16,7 +16,7 @@ h1 {
 }
 .details {
   font-family: Verdana;
-  font-size: 12px;
+  font-size: 21px;
   color: Gray;
 }
 h2 {
